@@ -39,3 +39,18 @@ html,body {
   color: white;
   text-decoration: underline;
 }
+
+#content {
+  padding: 8px;
+  color: white;
+}
+
+#content a {
+  color: #0FF;
+  text-decoration: none;
+}
+
+#content a:hover {
+  color: #00F;
+  text-decoration: underline;
+}
