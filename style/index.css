@@ -18,7 +18,7 @@ html,body {
   
   border: 2px solid #B71600;
   
-  height: 48px;
+  padding: 8px;
 }
 
 #head h1 {
@@ -27,7 +27,6 @@ html,body {
 }
 
 #head img {
-  height: 32px;
   width: 32px;
 }
 
