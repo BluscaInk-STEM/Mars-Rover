@@ -10,8 +10,6 @@ html,body {
 }
 
 #head {
-  padding: 8px;
-  
   position: -webkit-sticky;
   position: sticky;
   top: 0;
@@ -20,7 +18,7 @@ html,body {
   
   border: 2px solid #B71600;
   
-  height: 32px;
+  height: 48px;
 }
 
 #head img {
