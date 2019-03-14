@@ -5,9 +5,13 @@ html,body {
   background: #333;
   
   font-family: Lato, Arial, sans-serif;
+  
+  color: white;
 }
 
 #head {
+  padding: 8px;
+  
   position: -webkit-sticky;
   position: sticky;
   top: 0;
@@ -16,22 +20,20 @@ html,body {
   
   border: 2px solid #B71600;
   
-  height: 66px;
-  
-  padding: 8px;
+  height: 32px;
 }
 
 #head img {
-  height: 50px;
-  width: 50px;
+  height: 32px;
+  width: 32px;
 }
 
-#head a:link {
+#head a {
   color: white;
   text-decoration: none;
 }
 
-#head a:visited {
+#head a:hover {
   color: white;
   text-decoration: underline;
 }
